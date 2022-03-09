@@ -1,3 +1,5 @@
-# TIME
-Technology In Modern Era
+# Arduino-Samples
+
+Sample Arduino programs for freshers.
+
 #Author : Akhildev MJ
